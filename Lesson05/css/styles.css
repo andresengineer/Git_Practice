@@ -1,0 +1,39 @@
+h1 {
+    color: #184e77;
+}
+
+/* a:link {
+    color: #52b69a;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #5936f3;
+    text-decoration: none;
+} 
+
+a:hover {
+    color: #168aad;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #d9ed92;
+    text-decoration: line-through;
+}
+
+*/
+
+a:link, a:visited {
+    background-color: #b5e48c;
+    color: #1e6091;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #ef233c;
+    color: #2b2d42;
+}
